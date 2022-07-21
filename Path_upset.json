@@ -1,0 +1,41 @@
+{
+    "file": "C:Users/hoonje/Downloads/upset-master/data/Blongum/Path_upset.csv",
+    "name": "B.longum - metabolic pathways",
+    "header": 0,
+    "separator": ";",
+    "skip": 0,
+    "meta": [
+        {
+            "type": "id",
+            "index": 0,
+            "name": "Name"
+        },
+        {
+            "type": integer
+            "index": 1,
+            "name": "Group1-1"
+        },
+        {
+            "type": integer
+            "index": 2,
+            "name": "Group1-2"
+        },
+        {
+            "type": integer
+            "index": 3,
+            "name": "Group1-3"
+        },
+        {
+            "type": integer
+            "index": 4,
+            "name": "Group2 (Ref)"
+        }
+    ],
+    "sets": [
+        {
+            "format": "binary",
+            "start": 1,
+            "end": 10
+        }
+    ]
+}
