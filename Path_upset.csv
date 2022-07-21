@@ -1,0 +1,20 @@
+Pathway;G1-1;G1-2;G1-3;G2(Ref)
+D-Alanine metabolism;1;1;0;0
+Pyruvate metabolism;1;0;0;1
+Legionellosis;0;1;1;1
+Alanine, aspartate and glutamate metabolism;1;1;0;0
+Glycine, serine and threonine metabolism;1;0;0;0
+Ubiquinone and other terpenoid-quinone biosynthesis;0;1;1;1
+Carbon fixation pathways in prokaryotes;0;1;1;0
+Penicillin and cephalosporin biosynthesis;1;1;1;0
+Riboflavin metabolism;1;1;1;0
+Primary bile acid biosynthesis;0;0;0;1
+Protein digestion and absorption;1;0;1;0
+Biofilm formation - Pseudomonas aeruginosa;1;1;1;0
+Butanoate metabolism;0;1;1;0
+Fatty acid biosynthesis;0;0;0;1
+One carbon pool by folate;1;0;0;1
+C5-Branched dibasic acid metabolism;1;0;0;0
+Fructose and mannose metabolism;1;1;1;0
+Valine, leucine and isoleucine biosynthesis;0;1;1;1
+Porphyrin and chlorophyll metabolism;1;0;1;0
