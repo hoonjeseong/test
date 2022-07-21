@@ -1,9 +1,12 @@
 {
-    "file": "https://github.com/hoonjeseong/test/blob/main/Path_upset.csv",
+    "file": "https://raw.githubusercontent.com/hoonjeseong/test/main/Path_upset.csv",
     "name": "B.longum - metabolic pathways",
     "header": 0,
     "separator": ";",
     "skip": 0,
+    "meta": [
+		{ "type": "id", "index": 0, "name": "Name" }
+	],
     "sets": [
         {
             "format": "binary",
